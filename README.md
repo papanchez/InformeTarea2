@@ -8,6 +8,9 @@
 
 2. MARCO TEÓRICO
 
+![Ley de Ohm](https://user-images.githubusercontent.com/116771507/202373442-fd09b8b3-95a9-408c-9e68-d7906dd7aa0e.png)
+
+![Energía y Potencia](https://user-images.githubusercontent.com/116771507/202373473-668b4001-4f76-4d93-ad08-882861c7d229.png)
 
 
 
