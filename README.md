@@ -2,8 +2,19 @@
 
 1. OBJETIVOS
 
+1.1 Objetivos Gnerales
 
+Aprender y comprender los diferentes conceptos de voltaje, corriente, resistencia, potencia y enegía, con el objetivo de ralizar los diferentes tipos de cálculos que existen para encontrarlos en caso de ser necesario.
 
+Analizar de manera correcta y eficiente un circuito para obtener lo menos errores posibles que puedan afectarlo de forma negativa.
+
+1.2 Objetivos específicos
+
+Reconocer la importancia de la ley de Ohm para encontrar el valor de la resistencia, voltaje o corriente; además comprender la relación que existe entre las tres magnitudes.
+
+Comprender el concepto de potengia y energía, además de las difentes formulas usadas para encontrarlas.
+
+Analizar la forma en la que se comporta un circuito al tomar en cuenta las magnitudes de  resistencia, voltaje, corriente, potencia y energía.
 
 
 2. MARCO TEÓRICO
