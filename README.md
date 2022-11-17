@@ -340,7 +340,7 @@ Una fuente debe producir 4.25W de potencia de salida.
 
 6. BIBLIOGRAFÍA
 
-
+FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007.
 
 
 
