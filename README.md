@@ -345,9 +345,11 @@ Una fuente debe producir 4.25W de potencia de salida.
 
 4. VIDEO
 
+https://youtu.be/tbakVwNyros
 
 5. CONCLUSIONES
 
+En conclusión, al realizar este informe con la respectiva resolución de cada ejericicio se pudo observar el comportamiento de  resistencia, voltaje, corriente potencia y energía, y como este puede influir de forma negativa o positiva en un circuito eléctrico, además pudimos aprender las distintas fórmulas usadas para encontrar las magnitudes antes mencionadas lo que es muy util debido a que en ciertos casos los datos que tenemos al momento de resolver un problema son escasos; igualmente se comprendieron los  conceptos mencionados en los capitulos 3 y 4, lo que fue de suma importancia para poder  llevar a cabo este informe. Finalamnete se podía decir que se entendieron tanto la ley de Ohm como la ley de watt lo que ciertamente será de utilidadd en el futuro.
 
 6. BIBLIOGRAFÍA
 
